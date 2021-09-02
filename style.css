@@ -11,6 +11,11 @@
 {
     margin-top: 40px;
 }
+.logo-column img
+{
+   width: 80%;
+
+}
 .forn-container
 {
      background-color: #ffffff; 
@@ -69,6 +74,7 @@
    .nav-link
    {
        color:#65676b;
+       font-size: 18px!important;
    }
    .nav-item a
    {
