@@ -124,6 +124,46 @@
 
 
 
+/* Received amount Section*/
+   .show-button
+   {
+       border-radius: 20px;
+       margin-top: 50%;
+   }
+/* Received amount Section*/
+
+
+/* support section start */
+  .support-content
+  {
+      color: #65676b;
+      margin-top: 10px;
+      font-family: 'Lato', sans-serif;
+      font-size: 14px;
+  }
+  .title-list
+  {
+      text-decoration: none!important;
+  }
+  .company-list ul
+  {
+     text-decoration: none!important;
+  }  
+  .list li{
+      list-style: none;
+      color: #65676b;
+  }
+  .company-list a
+  {
+    text-decoration: none;
+    color: #65676b;
+  }
+  
+  
+/* Support Section End */
+
+
+
 
 
 @media only screen and (max-width: 768px)
