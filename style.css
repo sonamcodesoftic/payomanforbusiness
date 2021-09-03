@@ -13,7 +13,7 @@
 }
 .logo-column img
 {
-   width: 80%;
+   /* width: 80%; */
 
 }
 .forn-container
@@ -177,7 +177,7 @@
     .forn-container
     {   
        background-color: #ffffff; 
-       margin-top: -40%!important; 
+       margin-top: -35%!important; 
        width: 80%; 
        margin:auto; 
        border: 1px solid #969595;
